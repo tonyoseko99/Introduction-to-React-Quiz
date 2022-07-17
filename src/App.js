@@ -3,7 +3,6 @@ import './App.css';
 
 /**
   Challenge: Display all users to the browser
-  Small Hint: Use array map with react key
 **/
 
 const users = [

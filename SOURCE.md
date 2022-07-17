@@ -1,12 +1,12 @@
 # Launch app on browser.
 
 # SIMPLE JSX: 
-## Display `JSX is cool!` as an output and Replace the React `{logo}` image with an image of your choice(5mks)
+## Display String `JSX is cool!` as an output and Replace the React `{logo}` image with an image of your choice(5mks)
 
 Extra styling is a plus (5mks)
 
-# From App.js, Display array of users to browser
-
+# From App.js, Display array of users to browser(5mks)
+## Small Hint: Use array map with react key
 
 # 2. In index.html, write three JSX <li></li> elements containing a list of your preferred items. 
 
