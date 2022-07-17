@@ -12,7 +12,8 @@ Extra styling is a plus (5mks)
 
 ## Show/Hide Element on Screen.
 
-# 3. Create a JSX <article></article> element. Save it in a variable named myArticle.
+# React Children.
+## Show entire Child component content inside Parent component. Only add code on Parent Component.
 
 
 # 4. Declare a constant named myTeam. Set myTeam equal to a JSX <p></p> element with the word `Team` in between the <p></p> tags.
