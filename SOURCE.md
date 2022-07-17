@@ -8,7 +8,9 @@ Extra styling is a plus (5mks)
 # From App.js, Display array of users to browser(5mks)
 ## Small Hint: Use array map with react key
 
-# 2. In index.html, write three JSX <li></li> elements containing a list of your preferred items. 
+# Toggle Challenge
+
+## Show/Hide Element on Screen.
 
 # 3. Create a JSX <article></article> element. Save it in a variable named myArticle.
 
