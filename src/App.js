@@ -1,26 +1,26 @@
 import logo from './logo.svg';
 import './App.css';
 
+/**
+  Challenge: Display all users to the browser
+  Small Hint: Use array map with react key
+**/
+
+const users = [
+  { name: "John Doe", id: 1 },
+  { name: "Jane Doe", id: 2 },
+  { name: "Billy Doe", id: 3 }
+];
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    
+    <>
+    <img src={logo} className="App-logo" alt="logo" />
+      <h3>User names</h3>
+      <ul></ul>
+    </>
   );
 }
-
 
 export default App;
